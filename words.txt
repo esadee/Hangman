@@ -1,0 +1,16 @@
+Hangman
+Cow
+Computer
+Keyboard
+Monitor
+Trash
+Head
+Woman
+rabbit
+bed
+book
+table
+ball
+notepad
+notebook
+phone
